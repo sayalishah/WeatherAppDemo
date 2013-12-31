@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherAppDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="city_name_hint">Please enter city name </string>
+    <string name="get_details">Details</string>
+    <string name="enter_details">Enter details</string>
+    <string name="currentlocationdetails">For current location weather click here</string>
+    <string name="or">OR</string>
+    <string name ="APP_ID">1290f8ac0c5d36bffd81c70bb563d033</string>
+
+</resources>
